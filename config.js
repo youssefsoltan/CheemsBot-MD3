@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['Youssef AlSoltan'] //ur owner number
+global.ownername = "AL SOLTAN !"
+global.ytname = "YT: Youssef-Al Soltan" //ur yt chanel name
+global.socialm = "insta: 1y._.o2" //ur github or insta name
+global.location = "Egypt, Al Behera, Kafr Al dwar" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/zpUd6tk1NNA" //ur website
+global.botname = "Bot Al SoltN" //ur bot name
+global.websitex = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
-global.themeemoji = "🐶"
+global.packname = "Bot Al Soltan Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "By Youssef Al Soltan!"
+global.themeemoji = "😎"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
+global.ownertag = ['201288455338'] //ur owner tag
+global.ownernummenu = ['201288455338'] //ur owner number in menu and all
 global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.botscript = " https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA"
+global.linkz1 = "https://chat.whatsapp.com/E3ZXaynqIStHBJdpyNlTxb"
+global.linkz2 = "https://chat.whatsapp.com/E3ZXaynqIStHBJdpyNlTxb"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
