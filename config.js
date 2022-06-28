@@ -94,17 +94,17 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    success: 'تم✓',
+    admin: 'يجب ان تكون مشرف في المجموعه!',
+    botAdmin: 'عذرآ يرجي رفع البوت مشرف!',
+    owner: 'هذا الامر مخصص لصاحب البوت فقط',
+    group: 'هذا مخصص للمجموعات فقط',
+    private: 'هذا الامر مخصص في ال برايفت فقط',
+    bot: 'هذا مخصص للبوت فقط',
+    wait: 'انتظر لحظه...',
+    linkm: 'يجب ان تترك رابط؟',
+    error: 'خطأ!',
+    ban: 'لقد تم حظرك بواسطه البوت ان كنت تريد ان تستخدم البوت مره ثانيه تحدث الي صاحب البوت +201288455338',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
