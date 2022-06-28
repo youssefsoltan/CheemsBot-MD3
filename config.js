@@ -48,7 +48,7 @@ global.socialm = "insta: 1y._.o2" //ur github or insta name
 global.location = "Egypt, Al Behera, Kafr Al dwar" //ur location
 
 //bot bombdy
-global.botname = "Bot Al SoltN" //ur bot name
+global.botname = "Bot Al Soltan" //ur bot name
 global.websitex = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Bot By Youssef Al Soltan\n\n\n\n\n\n\n💎💎💎 "
